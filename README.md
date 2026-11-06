@@ -2,7 +2,9 @@
 
 ### Computer Science | Software Development | AI & Technology
 
-Passionate about technology, problem-solving, and building innovative software solutions. Constantly learning, exploring, and evolving with technology.
+Passionate about technology, problem-solving, and developing innovative software solutions. Interested in exploring artificial intelligence, modern web technologies, and software engineering. I enjoy turning ideas into practical solutions, experimenting with emerging technologies, and continuously expanding my technical knowledge.
+
+Driven by curiosity and a commitment to continuous learning, I aim to build meaningful solutions while growing as a developer.
 
 <br/>
 
