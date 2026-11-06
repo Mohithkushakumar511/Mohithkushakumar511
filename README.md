@@ -9,7 +9,6 @@ Driven by curiosity and a commitment to continuous learning, I aim to build mean
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Mohithkushakumar511&style=flat-square&color=0e7490&label=PROFILE+VIEWS)](https://github.com/Mohithkushakumar511)
-[![GitHub](https://img.shields.io/badge/GitHub-Mohithkushakumar511-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mohithkushakumar511)
 
 ---
 
@@ -26,4 +25,26 @@ Driven by curiosity and a commitment to continuous learning, I aim to build mean
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+---
+
+### Connect with Me
+
+<p align="left">
+  <a href="https://github.com/Mohithkushakumar511" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://discord.com/users/YOUR_DISCORD_USER_ID" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="mailto:mohithraj198@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
