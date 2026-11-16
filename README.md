@@ -45,7 +45,7 @@ Connect with Me
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 
-<a href="https://portfolio-kappa-blond-21.vercel.app" target="_blank">
+<a href="https://portfolio-mohith-cda7.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
