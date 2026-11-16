@@ -6,6 +6,12 @@ Passionate about technology, problem-solving, and developing innovative software
 
 Driven by curiosity and a commitment to continuous learning, I aim to build meaningful solutions while growing as a developer.
 
+<br/>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Mohithkushakumar511&style=flat-square&color=0e7490&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
 ---
 
 ### Languages and Tools
